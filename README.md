@@ -1,5 +1,6 @@
 # Purpose
 In this repository I want to add some of what I've been studying about the Racket programming language.
+- Racket is member of the large family of Lisp languages, Lisp is also known for changing the way you think about programming
 
 
 # Little about
