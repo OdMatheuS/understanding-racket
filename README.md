@@ -25,3 +25,6 @@ Racket is a general-purpose, multi-paradigm programming language in the lisp/sch
  1
 
 ```
+## References
+- [Racket Official Site](https://racket-lang.org)
+- [Realm of Racket](https://www.realmofracket.com/)
